@@ -1,4 +1,4 @@
-# native-module-react-native
+# Native-module-React-Native
 
 ![](NativeModuleAndroid.gif)
 
